@@ -68,6 +68,21 @@
     "name": "replay",
     "svg": "av/svg/production/ic_replay_48px.svg"
   }, {
+    "name": "next",
+    "svg": "av/svg/production/ic_skip_next_48px.svg"
+  }, {
+    "name": "previous",
+    "svg": "av/svg/production/ic_skip_previous_48px.svg"
+  }, {
+    "name": "loop",
+    "svg": "av/svg/production/ic_loop_48px.svg"
+  }, {
+    "name": "shuffle",
+    "svg": "av/svg/production/ic_shuffle_48px.svg"
+  }, {
+    "name": "playlist",
+    "svg": "av/svg/production/ic_playlist_play_48px.svg"
+  }, {
     "name": "facebook",
     "svg": "facebook.svg",
     "root-dir": "./custom-icons/fontawesome/"
@@ -90,6 +105,14 @@
   }, {
     "name": "pinterest",
     "svg": "pinterest.svg",
+    "root-dir": "./custom-icons/fontawesome/"
+  }, {
+    "name": "expand",
+    "svg": "expand.svg",
+    "root-dir": "./custom-icons/fontawesome/"
+  }, {
+    "name": "compress",
+    "svg": "compress.svg",
     "root-dir": "./custom-icons/fontawesome/"
   }, {
     "name": "audio-description",
